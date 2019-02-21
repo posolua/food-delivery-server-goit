@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "food-delivery-server-goit",
   "version": "1.7.1",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "nodemon index.js",
     "debug": "node --inspect index.js"
   },
-  "author": "",
+  "author": "Serhii Poslovskyi",
   "license": "ISC",
   "dependencies": {
     "morgan": "^1.9.1",
